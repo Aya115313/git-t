@@ -1,2 +1,2 @@
 console.log('inde.js');
-console.log('version2');
+console.log('version 3');
